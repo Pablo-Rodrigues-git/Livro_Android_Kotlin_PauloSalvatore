@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/background_rec.xml" value="0.3536458333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/gradient_background.xml" value="0.3536458333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/ic_monstro_planta_1.xml" value="0.3536458333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/ic_rectangle_77.xml" value="0.3536458333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/rectangle_103.xml" value="0.196875" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/rectangle_30.xml" value="0.196875" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/rectangle_96.xml" value="0.196875" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/drawable/splash_background.xml" value="0.3536458333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_added_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_choose_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_evolving_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_list_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_list_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_samambai.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_samambata.xml" value="0.25" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/creatures_view_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/layout/navigation_activity.xml" value="0.3333333333333333" />
+        <entry key="..\:/GitHub/Livro_Android_Kotlin_PauloSalvatore/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

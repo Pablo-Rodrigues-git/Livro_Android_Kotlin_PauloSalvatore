@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Livro_Android_Kotlin_PauloSalvatore</string>
+    <string name="ID"># 001</string>
+    <string name="creature">Samambata</string>
+    <string name="level">Level 1</string>
+    <string name="necessidades">NECESSIDADES</string>
+    <string name="ações">AÇÕES</string>
+    <string name="tv_hungry_text">Samambata está com fome!</string>
+    <string name="tv_training_text">Treine para evoluir</string>
+    <string name="creature_xp_message">150/270xp</string>
+    <string name="tv_table_actions">tv_table_actions</string>
+    <string name="tv_type_text">Tubérculo</string>
+    <string name="planta">Planta</string>
+    <string name="tv_strenght_percentage">60%</string>
+    <string name="tv_humor_percentage">30%</string>
+    <string name="tv_hungry_percentage">30%</string>
 </resources>
